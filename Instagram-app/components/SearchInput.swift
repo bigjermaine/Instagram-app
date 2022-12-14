@@ -2,7 +2,7 @@
 //  SearchInput.swift
 //  Instagram-app
 //
-//  Created by Willie Yam on 2022-01-13.
+//   Created by daniel on 2021-12-23.
 //
 
 import SwiftUI

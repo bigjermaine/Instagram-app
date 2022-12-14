@@ -2,8 +2,7 @@
 //  PostHeader.swift
 //  Instagram-app
 //
-//  Created by Willie Yam on 2021-12-23.
-//
+//  Created by daniel on 2021-12-23.
 
 import SwiftUI
 
