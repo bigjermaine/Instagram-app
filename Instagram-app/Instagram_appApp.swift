@@ -2,7 +2,7 @@
 //  Instagram_appApp.swift
 //  Instagram-app
 //
-//  Created by Willie Yam on 2021-12-15.
+//  Created by daniel on 2021-12-23.
 //
 
 import SwiftUI
